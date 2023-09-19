@@ -3,7 +3,7 @@
 ### adding to .gitignore
 
 #### GIT
-git update-index --assume-unchanged file_name \n
+git update-index --assume-unchanged file_name <br />
 git reset --hard <commitId>
 git push --force
 git reset HEAD~
