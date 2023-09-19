@@ -10,6 +10,6 @@ git reset HEAD~ <br />
 git merge --abort <br />
 
 #### PHP
-php artisan migrate
-php artisan migrate:rollback
-php artisan cache:clear
+php artisan migrate <br />
+php artisan migrate:rollback <br />
+php artisan cache:clear <br />
