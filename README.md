@@ -4,7 +4,7 @@
 
 #### GIT
 git update-index --assume-unchanged file_name <br />
-git reset --hard <commitId>
+git reset --hard <commitId> <br />
 git push --force
 git reset HEAD~
 git merge --abort
