@@ -17,7 +17,5 @@ python manage.py createsuperuser  <br />
 python manage.py makemigrations <br />
 python manage.py migrate <br />
 
-<br />
 ##### To start with new db in project
-Django's migration can be reset by deleting all migration files such as 0001_inital, 0002_delete_song, 0003_delete_album, etc. except the __init__.py files in each project app directory, <br />
-then dropping the database and creating migration again.
+Django's migration can be reset by deleting all migration files such as 0001_inital, 0002_delete_song, 0003_delete_album, etc. except the __init__.py files in each project app directory, then dropping the database and creating migration again.
